@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069218945187",
+    "project_id": "noduster-827be",
+    "storage_bucket": "noduster-827be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069218945187:android:d9ac70aa502b4c6d410716",
+        "android_client_info": {
+          "package_name": "com.initial.noduster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069218945187-an30107qopija5so9mt48os63vvadcep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdvjYdmMLjU2bxo-wvEvkuHCkUTXPlynI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069218945187-an30107qopija5so9mt48os63vvadcep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
